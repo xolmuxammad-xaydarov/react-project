@@ -1,0 +1,27 @@
+h1{
+  font-size: 100px;
+  margin-top: 139px;
+  width: 635px;
+  color: #fff;
+}
+.red{
+  color:#F67E7E;
+}
+.talant__block{
+  display: block;
+}
+.talant__text{
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #fff;
+}
+.talant__block_text{
+  width: 445px;
+  padding-bottom: 10px;
+}
+.talant__flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
